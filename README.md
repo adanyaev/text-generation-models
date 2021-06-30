@@ -1,1 +1,5 @@
-# text-generation-models
+# GRU model
+
+Запуск:
+
+<python main.py>

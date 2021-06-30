@@ -1,5 +1,5 @@
-# GRU model
+## GRU model
 
 Запуск:
 
-<python main.py>
+```python main.py```
